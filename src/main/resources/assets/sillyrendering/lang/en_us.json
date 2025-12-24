@@ -1,0 +1,28 @@
+﻿{
+  "gui.sillyrendering.config.title": "sillyrendering configuration",
+  "gui.sillyrendering.config.category.main.title": "Main",
+  "gui.sillyrendering.config.category.main.option.intensity": "Intensity",
+  "gui.sillyrendering.config.category.main.option.intensity.description": "The intensity of sillyrendering's effects",
+  "gui.sillyrendering.config.category.main.option.randomizeVertex": "Randomize position values",
+  "gui.sillyrendering.config.category.main.option.randomizeVertex.description": "Randomizes vertex position values when drawn, which causes texture faces to warp and move around the screen",
+  "gui.sillyrendering.config.category.main.option.randomizeTextureOffset": "Randomize texture offset values",
+  "gui.sillyrendering.config.category.main.option.randomizeTextureOffset.description": "Randomizes textures' UV values when drawn, which causes the texture to point to random offsets in it's texture atlas",
+  "gui.sillyrendering.config.category.main.option.randomizeNormal": "Randomize normal values",
+  "gui.sillyrendering.config.category.main.option.randomizeNormal.description": "Randomizes the normal values of each vertice on every texture when drawn",
+  "gui.sillyrendering.config.category.main.option.randomizeColor": "Randomize color values",
+  "gui.sillyrendering.config.category.main.option.randomizeColor.description": "Randomizes the color of each vertice on every texture when drawn",
+  "gui.sillyrendering.config.category.main.option.randomizeLight": "Randomize light values",
+  "gui.sillyrendering.config.category.main.option.randomizeLight.description": "Randomizes brightness values of each vertice on every texture when drawn",
+  "gui.sillyrendering.config.category.main.option.useClassicRandom": "Use classic random",
+  "gui.sillyrendering.config.category.main.option.useClassicRandom.description": "Uses sillyrendering's old random function (regular java.util.Random)",
+
+  "gui.sillyrendering.config.option_notice.world_reload_required": "§aMay require a world reload to fully apply",
+  "gui.sillyrendering.config.option_notice.may_need_manual_editing": "§cIt may be difficult to edit sillyrendering's config while this is enabled, the fix is to edit the config file directly.",
+
+  "gui.sillyrendering.config.option_affects.all_textures": "All textures, including but not limited to:",
+  "gui.sillyrendering.config.option_affects.entities": "Entities",
+  "gui.sillyrendering.config.option_affects.blocks": "Blocks",
+  "gui.sillyrendering.config.option_affects.guis": "GUIs",
+  "gui.sillyrendering.config.option_affects.liquids": "Liquids",
+  "gui.sillyrendering.config.option_affects.fire_texture": "Burning entity fire texture"
+}

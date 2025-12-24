@@ -5,6 +5,9 @@ makes your game renderer silly! every vertex position is randomized when possibl
 - world chunks are randomized only when they are updated (place block, break block, etc.)
 - gui is extremely silly!
 
+> [!IMPORTANT]
+> The effects produced by this mod will likely cause issues for individuals with epilepsy.
+
 ## 🎮 compatibility
 im not sure about compatibility with other mods, because this mod mixins some funny rendering classes.
 if you found any issue, feel free to report it in `Issues` tab!
